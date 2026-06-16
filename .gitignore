@@ -1,0 +1,31 @@
+# Datasets & experiment artifacts (too large for GitHub)
+data/
+outputs/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TensorBoard / temp
+*.pid
+tensorboard_compare.log

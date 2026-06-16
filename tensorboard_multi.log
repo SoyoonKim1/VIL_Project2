@@ -1,0 +1,5 @@
+/home/capstoneserver1/.local/lib/python3.13/site-packages/tensorboard/default.py:30: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+TensorFlow installation not found - running with reduced feature set.
+E0509 09:34:08.221349 132089016317760 program.py:300] TensorBoard could not bind to port 6006, it was already in use
+ERROR: TensorBoard could not bind to port 6006, it was already in use

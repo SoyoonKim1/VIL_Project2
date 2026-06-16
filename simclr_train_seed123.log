@@ -1,0 +1,394 @@
+TensorBoard logging enabled: outputs/simclr_stl10_seed123/tensorboard
+================================================================================
+SimCLR pretraining on STL10 unlabeled
+device=cuda, epochs=200, batch_size=256, lr=0.300000
+================================================================================
+[Epoch 001] loss=4.91351 time=60.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 002] loss=3.68893 time=59.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 003] loss=3.32431 time=58.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 004] loss=3.14016 time=59.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 005] loss=3.01939 time=59.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 006] loss=2.94467 time=58.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 007] loss=2.87902 time=58.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 008] loss=2.83722 time=60.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 009] loss=2.80419 time=59.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 010] loss=2.78238 time=59.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 011] loss=2.75423 time=59.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 012] loss=2.72306 time=60.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 013] loss=2.69502 time=58.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 014] loss=2.67295 time=59.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 015] loss=2.65836 time=58.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 016] loss=2.64522 time=59.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 017] loss=2.63048 time=59.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 018] loss=2.62490 time=59.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 019] loss=2.60448 time=59.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 020] loss=2.60707 time=59.4s
+[Epoch 021] loss=2.58936 time=59.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 022] loss=2.58415 time=59.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 023] loss=2.57603 time=59.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 024] loss=2.56868 time=60.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 025] loss=2.55581 time=59.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+  -> periodic backbone save: outputs/simclr_stl10_seed123/backbone_epoch_0025.pt
+  -> eval @ epoch 025: knn_top1=71.94% linear_top1=72.46% (5.1s)
+[Epoch 026] loss=2.54887 time=59.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 027] loss=2.54280 time=59.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 028] loss=2.53963 time=60.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 029] loss=2.52761 time=59.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 030] loss=2.52391 time=59.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 031] loss=2.51788 time=59.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 032] loss=2.51686 time=59.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 033] loss=2.51348 time=61.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 034] loss=2.50387 time=59.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 035] loss=2.49951 time=60.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 036] loss=2.49314 time=63.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 037] loss=2.48636 time=64.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 038] loss=2.48660 time=63.8s
+[Epoch 039] loss=2.48321 time=64.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 040] loss=2.47568 time=64.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 041] loss=2.46797 time=63.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 042] loss=2.47180 time=64.2s
+[Epoch 043] loss=2.46508 time=64.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 044] loss=2.46239 time=64.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 045] loss=2.45487 time=63.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 046] loss=2.45286 time=62.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 047] loss=2.45092 time=62.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 048] loss=2.44641 time=63.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 049] loss=2.44720 time=62.6s
+[Epoch 050] loss=2.44160 time=63.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+  -> periodic backbone save: outputs/simclr_stl10_seed123/backbone_epoch_0050.pt
+  -> eval @ epoch 050: knn_top1=73.79% linear_top1=74.17% (4.7s)
+[Epoch 051] loss=2.43829 time=62.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 052] loss=2.43495 time=62.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 053] loss=2.42888 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 054] loss=2.42963 time=64.0s
+[Epoch 055] loss=2.42691 time=61.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 056] loss=2.42896 time=62.4s
+[Epoch 057] loss=2.42056 time=62.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 058] loss=2.42040 time=62.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 059] loss=2.41598 time=62.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 060] loss=2.41204 time=62.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 061] loss=2.41099 time=62.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 062] loss=2.40712 time=61.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 063] loss=2.39773 time=62.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 064] loss=2.40344 time=62.9s
+[Epoch 065] loss=2.39683 time=61.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 066] loss=2.39550 time=63.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 067] loss=2.39303 time=62.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 068] loss=2.38305 time=62.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 069] loss=2.39004 time=61.2s
+[Epoch 070] loss=2.38113 time=63.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 071] loss=2.38085 time=62.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 072] loss=2.37824 time=62.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 073] loss=2.37777 time=61.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 074] loss=2.37228 time=62.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 075] loss=2.36594 time=62.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+  -> periodic backbone save: outputs/simclr_stl10_seed123/backbone_epoch_0075.pt
+  -> eval @ epoch 075: knn_top1=77.11% linear_top1=76.97% (4.7s)
+[Epoch 076] loss=2.36796 time=63.7s
+[Epoch 077] loss=2.36906 time=61.7s
+[Epoch 078] loss=2.36320 time=63.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 079] loss=2.35706 time=63.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 080] loss=2.35281 time=62.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 081] loss=2.35581 time=61.8s
+[Epoch 082] loss=2.35298 time=61.9s
+[Epoch 083] loss=2.34691 time=63.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 084] loss=2.34131 time=62.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 085] loss=2.33748 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 086] loss=2.34320 time=62.5s
+[Epoch 087] loss=2.34000 time=63.4s
+[Epoch 088] loss=2.33336 time=62.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 089] loss=2.32865 time=63.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 090] loss=2.32607 time=62.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 091] loss=2.32674 time=63.6s
+[Epoch 092] loss=2.32109 time=62.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 093] loss=2.31794 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 094] loss=2.31464 time=61.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 095] loss=2.31111 time=64.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 096] loss=2.31167 time=64.8s
+[Epoch 097] loss=2.30250 time=63.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 098] loss=2.29998 time=63.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 099] loss=2.29982 time=64.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 100] loss=2.29853 time=64.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+  -> periodic backbone save: outputs/simclr_stl10_seed123/backbone_epoch_0100.pt
+  -> eval @ epoch 100: knn_top1=78.64% linear_top1=78.70% (4.5s)
+[Epoch 101] loss=2.29384 time=63.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 102] loss=2.29331 time=62.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 103] loss=2.28858 time=63.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 104] loss=2.28069 time=62.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 105] loss=2.28007 time=61.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 106] loss=2.27987 time=62.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 107] loss=2.26877 time=62.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 108] loss=2.26765 time=61.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 109] loss=2.26833 time=62.9s
+[Epoch 110] loss=2.25707 time=63.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 111] loss=2.26143 time=62.2s
+[Epoch 112] loss=2.26056 time=64.0s
+[Epoch 113] loss=2.25535 time=63.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 114] loss=2.25307 time=63.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 115] loss=2.24753 time=63.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 116] loss=2.24173 time=62.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 117] loss=2.24177 time=61.7s
+[Epoch 118] loss=2.23026 time=61.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 119] loss=2.23450 time=63.0s
+[Epoch 120] loss=2.22779 time=62.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 121] loss=2.22706 time=61.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 122] loss=2.22168 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 123] loss=2.21816 time=62.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 124] loss=2.21856 time=62.4s
+[Epoch 125] loss=2.20982 time=61.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+  -> periodic backbone save: outputs/simclr_stl10_seed123/backbone_epoch_0125.pt
+  -> eval @ epoch 125: knn_top1=81.38% linear_top1=80.34% (4.6s)
+[Epoch 126] loss=2.20566 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 127] loss=2.20327 time=63.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 128] loss=2.19606 time=62.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 129] loss=2.19657 time=62.8s
+[Epoch 130] loss=2.19081 time=62.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 131] loss=2.18766 time=62.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 132] loss=2.18583 time=64.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 133] loss=2.17424 time=62.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 134] loss=2.17415 time=62.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 135] loss=2.17131 time=63.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 136] loss=2.16469 time=63.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 137] loss=2.16198 time=63.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 138] loss=2.15714 time=62.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 139] loss=2.15411 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 140] loss=2.14738 time=62.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 141] loss=2.14372 time=62.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 142] loss=2.14227 time=62.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 143] loss=2.13563 time=63.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 144] loss=2.13528 time=62.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 145] loss=2.12496 time=61.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 146] loss=2.12651 time=64.1s
+[Epoch 147] loss=2.11718 time=61.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 148] loss=2.11028 time=64.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 149] loss=2.10814 time=64.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 150] loss=2.10393 time=63.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+  -> periodic backbone save: outputs/simclr_stl10_seed123/backbone_epoch_0150.pt
+  -> eval @ epoch 150: knn_top1=83.69% linear_top1=82.46% (4.4s)
+[Epoch 151] loss=2.10454 time=62.9s
+[Epoch 152] loss=2.09349 time=62.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 153] loss=2.08712 time=63.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 154] loss=2.08549 time=64.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 155] loss=2.08222 time=61.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 156] loss=2.07372 time=63.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 157] loss=2.06952 time=64.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 158] loss=2.06312 time=62.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 159] loss=2.05706 time=61.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 160] loss=2.05220 time=62.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 161] loss=2.04881 time=63.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 162] loss=2.04427 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 163] loss=2.04022 time=61.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 164] loss=2.03802 time=63.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 165] loss=2.02937 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 166] loss=2.02372 time=62.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 167] loss=2.01965 time=61.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 168] loss=2.01276 time=63.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 169] loss=2.00888 time=61.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 170] loss=2.00248 time=63.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 171] loss=1.99821 time=63.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 172] loss=1.99357 time=61.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 173] loss=1.98696 time=61.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 174] loss=1.98490 time=62.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 175] loss=1.98096 time=61.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+  -> periodic backbone save: outputs/simclr_stl10_seed123/backbone_epoch_0175.pt
+  -> eval @ epoch 175: knn_top1=85.56% linear_top1=83.90% (4.6s)
+[Epoch 176] loss=1.97391 time=63.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 177] loss=1.96859 time=61.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 178] loss=1.96559 time=62.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 179] loss=1.95975 time=63.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 180] loss=1.95684 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 181] loss=1.95493 time=61.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 182] loss=1.94774 time=63.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 183] loss=1.94673 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 184] loss=1.94541 time=62.6s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 185] loss=1.93731 time=62.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 186] loss=1.93528 time=61.5s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 187] loss=1.93110 time=62.1s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 188] loss=1.93039 time=61.3s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 189] loss=1.92725 time=62.2s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 190] loss=1.92558 time=61.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 191] loss=1.92207 time=61.9s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 192] loss=1.92186 time=63.4s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 193] loss=1.92107 time=62.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 194] loss=1.92030 time=64.8s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 195] loss=1.91677 time=62.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 196] loss=1.91575 time=61.7s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 197] loss=1.91789 time=61.6s
+[Epoch 198] loss=1.91858 time=61.4s
+[Epoch 199] loss=1.91494 time=63.0s
+  -> best loss updated. backbone saved: outputs/simclr_stl10_seed123/backbone_best.pt
+[Epoch 200] loss=1.91547 time=62.0s
+  -> periodic backbone save: outputs/simclr_stl10_seed123/backbone_epoch_0200.pt
+  -> eval @ epoch 200: knn_top1=86.62% linear_top1=85.03% (4.9s)
+Training finished in 3.51h. Best loss=1.91494
